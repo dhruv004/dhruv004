@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+ [![Visits Badge](https://badges.pufler.dev/visits/dhruv004/dhruv004)](https://badges.pufler.dev/visits/dhruv004/dhruv004)
 <!--
 **dhruv004/dhruv004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
