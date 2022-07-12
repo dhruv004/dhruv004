@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/source.gif" width="29px">
 
- [![Visits Badge](https://badges.pufler.dev/visits/dhruv004/dhruv004)](https://badges.pufler.dev/visits/dhruv004/dhruv004)
+ 
 <!--
 **dhruv004/dhruv004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
